@@ -1,0 +1,15 @@
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\Chatty.Domain.deps.json
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\Chatty.Domain.dll
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\ref\Chatty.Domain.dll
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\Chatty.Domain.pdb
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\Chatty.DataAccess.dll
+C:\Projects\Chatty\Chatty.Domain\bin\Debug\net5.0\Chatty.DataAccess.pdb
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.csproj.AssemblyReference.cache
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.AssemblyInfoInputs.cache
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.AssemblyInfo.cs
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.csproj.CopyComplete
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.dll
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\ref\Chatty.Domain.dll
+C:\Projects\Chatty\Chatty.Domain\obj\Debug\net5.0\Chatty.Domain.pdb

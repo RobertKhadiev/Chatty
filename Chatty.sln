@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatty.Web", "Chatty.Web\Chatty.Web.csproj", "{48536798-127A-4064-8536-DA3D182392E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatty.Domain", "Chatty.Domain\Chatty.Domain.csproj", "{D6D0927E-CDDD-4E89-AF6F-67D5F53D7419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatty.DataAccess", "Chatty.DataAccess\Chatty.DataAccess.csproj", "{5E80EC6D-D0CD-431F-A167-77E91C43F2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48536798-127A-4064-8536-DA3D182392E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48536798-127A-4064-8536-DA3D182392E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48536798-127A-4064-8536-DA3D182392E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48536798-127A-4064-8536-DA3D182392E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D0927E-CDDD-4E89-AF6F-67D5F53D7419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D0927E-CDDD-4E89-AF6F-67D5F53D7419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D0927E-CDDD-4E89-AF6F-67D5F53D7419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D0927E-CDDD-4E89-AF6F-67D5F53D7419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E80EC6D-D0CD-431F-A167-77E91C43F2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E80EC6D-D0CD-431F-A167-77E91C43F2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E80EC6D-D0CD-431F-A167-77E91C43F2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E80EC6D-D0CD-431F-A167-77E91C43F2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

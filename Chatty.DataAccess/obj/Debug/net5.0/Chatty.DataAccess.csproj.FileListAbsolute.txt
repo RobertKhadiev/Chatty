@@ -1,0 +1,15 @@
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\Chatty.DataAccess.deps.json
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\Chatty.DataAccess.runtimeconfig.json
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\Chatty.DataAccess.runtimeconfig.dev.json
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\Chatty.DataAccess.dll
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\ref\Chatty.DataAccess.dll
+C:\Projects\Chatty\Chatty.DataAccess\bin\Debug\net5.0\Chatty.DataAccess.pdb
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.AssemblyInfo.cs
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.dll
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\ref\Chatty.DataAccess.dll
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.pdb
+C:\Projects\Chatty\Chatty.DataAccess\obj\Debug\net5.0\Chatty.DataAccess.genruntimeconfig.cache
