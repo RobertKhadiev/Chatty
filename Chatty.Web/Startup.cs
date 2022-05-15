@@ -31,6 +31,7 @@ namespace Chatty.Web
             services.AddDbContext<ChattyDbContext>(options => options.UseNpgsql(_configuration.GetConnectionString("Db")));
             services.AddAutoMapper(typeof(ChatProfile));
             services.AddScoped<IUserChatsService, UserChatsService>();
+            services.AddScoped<IMessageService, MessageService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
